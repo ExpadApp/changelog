@@ -1,4 +1,4 @@
-# Changelog
+# Novidades!
 
 ## [1.2.0] - 2024-12-25
 ### Added
