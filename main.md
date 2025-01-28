@@ -1,6 +1,24 @@
 # Novidades!
 Fique atento às novidades da plataforma!
- 
+
+**[28/01/2025]
+Adicionado / Alterado**
+
+- Audit-trial dos eventos de integração no Make
+- Conversão Off-line do Google Ads aprimorada, separando Lead Qualificado de Lead Convertido
+- Possibildiae de alterar Tags/Mídia/Canal/Status Comercial em escala
+- Alteração no formato de paginação para escolher contas
+- Integração com PowerCRM concluída
+- Alerta de WhatsApp Business desconectado criado caso fique 15 minutos fora do ar
+- TypeForm aprimorado, incluido a opção de inserir dados no campo Observação do Lead
+- Icone de Motivo de perda incluido na visualização de Kanban
+- Listagem de contas com os dados de performance
+- Inserido icone para Sugestão de Melhorias
+- Inserido icone para Novidades na Plataforma
+- Icone para central de ajuda na plataforma
+- Relatório de Leads por Responsável estratificado por Status Comercial/Produtos Vendidos
+- Incluido opção de selecionar todos os leads da base, não só os listados na página de Leads
+
 **[31/12/2024]
 Adicionado / Alterado**
  
@@ -21,145 +39,3 @@ Adicionado / Alterado**
 - Campo de observações na config do Typeform
 - Indicador de status das contas na listagem de contas (com quantidade de leads)
 - Notificação de número desconectado do WhatsApp Business
- 
-**[26/12/2024]
-Corrigido / Alterado**
- 
-- Ajuste na listagem de LeadForms que não exibia novos formulários
- 
-**[17/12/2024]
-Adicionado / Alterado**
-
-- Configuração para classificar com IA somente leads pagos
-- Forçar nomes e habilitar/desabilitar os status padrão em todo o app
-- Padronização dos pickers de status do lead
-- Opção para filtrar leads sem responsável
-- Resultado projetado e realizado agora aparece como botão na home (no lugar do formato anterior)
-- Selecionar a conta na listagem de contas da organização
-- Listagem de contas com quantidade de leads (agora até 20 contas por página)
-- Padronização da paginação de leads
-- Definir Responsáveis no LeadForm do Facebook
- 
-**[27/11/2024]
-Adicionado / Alterado**
- 
-- Ajuste para remover responsáveis na tabela seletora de responsáveis
-- Responsáveis no Web Form
-- Código de status da conexão com o Evolution
-- Ajuste de alinhamento dos cards da home
-- Lógica de busca e layout do gauge de otimização
- 
-**[22/11/2024]
-Adicionado / Alterado**
- 
-- Padronização da escolha de responsáveis
-- Padronização do logout
-- Melhoria no design do switch expansível
-- Melhoria no design da tela de configuração de inteligência artificial
-- Indicador de responsável desabilitado na rotação global de responsáveis
-- Não incluir responsável na atribuição global automaticamente
- 
-**[13/11/2024 – 18:11]
-Adicionado / Alterado**
- 
-- Popup de edição de lead agora permite remover responsável e adicionar tags
- 
-**[13/11/2024 – 14:53]
-Corrigido / Alterado**
- 
-- Ajuste no modelo de importação de leads
- 
-**[11/11/2024]
-Corrigido**
- 
-- Ajuste no filtro de data que não estava aplicando a data corretamente
- 
-**[08/11/2024]
-Adicionado / Alterado**
- 
-- Deselecionar leads após edição e exclusão em lote (batch)
-- Edição de leads em lote
-- Padronização dos popups de seleção de opção
-- Movido o botão de salvar no popup de criação de lead
-- Opção de deselecionar leads
-- Ajuste no popup de listagem e edição de templates de mensagem
- 
-**[07/11/2024]
-Adicionado / Alterado**
- 
-- Indicador de “sem formulários encontrados” na página do LeadForm do Facebook
- 
-**[01/11/2024]
-Adicionado / Alterado**
- 
-- Rework dos responsáveis (agora com e-mail e telefone adicionais)
-- Mensagem de leads não qualificados no plugin
-- Criação e exclusão de templates do WhatsApp API pela conta
-- Templates de mensagem mais intuitivos
-- Configuração para que analistas não alterem o responsável dos leads
-- Melhoria na edição de custom status
-- Melhoria no design do diálogo padrão de exclusão
-- Possibilidade de importar lead com 1 responsável ao importar leads
- 
-**[30/10/2024]
-Adicionado**
- 
-- Permissão para editar a config do WhatsApp Business para administradores do sistema
- 
-**[11/10/2024]
-Adicionado**
- 
-- Texto de ajuda explicando regras de nome dos templates do WhatsApp
- 
-**[27/09/2024]
-Adicionado**
- 
-- Tipo de lead do PowerCRM
- 
-**[26/09/2024]
-Adicionado**
- 
-- Campos de CPF, CNPJ e nome da empresa no lead
- 
-**[19/09/2024]
-Adicionado / Alterado**
- 
-- Configuração de classificação automática
-- Removido o banner de “criar meta” na home
-- Configuração de CTA personalizado do plugin de WhatsApp
-- Envio de mensagens de contato via API oficial do WhatsApp
- 
-**[09/09/2024]
-Adicionado / Alterado**
- 
-- Configuração de classificação automática de leads via chat
-- Melhoria na parte de metas, com criação de metas na home
-- Exibição de custo por lead nas métricas de resultados
-- Ajuste de data nos componentes de mensagem
- 
-**[04/09/2024]
-Adicionado / Alterado**
- 
-- Configuração de “protocolo fantasma”
-- Possibilidade de abrir attachments do WhatsApp oficial
-- Configuração de somente leads pagos na Evolution API
-- Envio de arquivos na conversa do lead
- 
-**[22/08/2024]
-Adicionado / Alterado**
- 
-- Ajuste na label de “restringir leads para analistas”
-- Cálculo local de custo por conversão na parte de campanhas
-- Configuração do 360 Dialog
-- Padronização dos popups
-- Criação de Template Messages
-- Listagem de Template Messages
-- Envio de mensagens de template
-- Filtro de leads pagos
-- Permitir envio apenas de templates aprovados
-- Popup de busca de leads
-- Ajustes no popup genérico e no de criação de novo contato
-- Iniciar conversa via API oficial do WhatsApp
-- Imagens no WhatsApp
-- Envio de imagens nas mensagens do WhatsApp
-- Player de vídeo nas mensagens
