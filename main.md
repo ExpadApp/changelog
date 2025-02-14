@@ -1,6 +1,15 @@
 # Novidades!
 Fique atento às novidades da plataforma!
 
+**[10/02/2025]
+Adicionado / Alterado**
+
+- Coluna de Palavra-Chave incluida na lista de Leads (Com opção de exibir e ocultar)
+- Coluna de Conversas Iniciadas incluiada na lista de métricas do Facebook Ads
+- Automação: Alterar Mídia e Canal de acordo com text no WhatsApp
+- Audit-trial de dispáros de Webhook
+- Automação: Alteração de Status de acordo com o texto da Observação do Lead
+
 **[28/01/2025]
 Adicionado / Alterado**
 
