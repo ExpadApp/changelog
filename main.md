@@ -1,6 +1,34 @@
 # Novidades!
 Fique atento às novidades da plataforma!
 
+**[10/03/2025]
+Adicionado / Alterado**
+
+- Retirar 55 no botão de envio de whatsapp quando a conta for EUA/UE
+- Envio de Alerta por WhatsApp sobre Desconexão de WhatsApp Business com a Expad
+- Opção do vendedor ver leads sem responsável
+
+**[05/03/2025]
+Adicionado / Alterado**
+
+- Alterar ordenamento do lead por ultima edição ou não
+- Destrinchar dados de campanha (Modulo Resultados)
+
+**[24/02/2025]
+Adicionado / Alterado**
+
+- Aba Origem no detalhamento do Lead
+- Produtos e serviço no detalhamento do lead
+- Opção de Responsável na Automação por Mensagem/Observação
+
+**[17/02/2025]
+Adicionado / Alterado**
+
+- Mapeado dos campos Motivo de perda, Substatus Em Atendimento e Produtos e Serviços, agora está na exportação por Excel
+- Opção de ocultar numero nas opções do Plugin do WhatsApp
+- Audit-Trial do PowerCRM
+- Incluido casa decimal na performance comercial
+
 **[10/02/2025]
 Adicionado / Alterado**
 
