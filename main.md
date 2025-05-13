@@ -1,6 +1,51 @@
 # Novidades!
 Fique atento às novidades da plataforma!
 
+**12/5
+Adicionado / Alterado**
+- Ocultar por padrão de 0:00 à 7:00 e 20:00 à 24:00
+- Exibir semanas futuras
+- Alerta de Email: incluir o Responsável/Telefone de WhatsApp que o lead foi direcionado
+
+**05/5
+Adicionado / Alterado**
+- Criar automação para alerta em caso de oscilação de leads
+
+**28/4
+Adicionado / Alterado**
+- Refazer Request de WhatsApp Events
+- Opção de desativar formato de mascara do plugin via IP
+- Calendário Atividades/Leads
+- Gráfico por Tag’s na parte de Insights
+- Incluir Vídeo Onboard - ADM,AGÊNCIAS,DONOS - https://www.youtube.com/watch?v=RuMxs5Kxuew
+- Incluir Vídeo Onboard - ANALISTAS - https://www.youtube.com/watch?v=ScxEnwUnF2Y
+
+**21/04
+Adicionado / Alterado**
+- Incluir Vídeo Pagamentos da Organização - https://youtu.be/MJhZM-O1CGI
+- Mudar forma de buscar dados de Campanhas, para não precisar salvar no banco de dados
+
+**07/04
+Adicionado / Alterado**
+- Opção de Mesclar lead
+- Filtrar resultados por Origem e por Competência
+- Incluir no histórico quem fez a alteração
+- Incluir data da criação no histórico do lead
+- Incluir opção de Libra e +44 (Inglaterra)
+
+**31/03
+Adicionado / Alterado**
+- Incluir colunas na exportação de Excel: Tag’s, Produtos e Serviços, Motivo de Perda e Status de Atividade
+- Opção para ajustar a mascara do número de WhatsApp que o cliente coloca (internacional)
+
+**24/03
+Adicionado / Alterado**
+- Selecionar vários leads para solicitar Análise de IA
+- Login de onboarding: go.expad.com.br (Ok, falta DNS propagar)
+- Considerar 1 conversão por padrão (gclid ou fbclid)
+- Deixar por Default o filtro Somente Leads Pagos ativado
+
+
 **[10/03/2025]
 Adicionado / Alterado**
 
